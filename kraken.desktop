@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Kraken
+Comment=The Devourer of Paste Restrictions - Typing Automation Tool
+Exec=/home/iostream/tools/kraken/kraken-launcher.sh
+Icon=/home/iostream/tools/kraken/kraken-icon.svg
+Terminal=false
+Type=Application
+Categories=Utility;Development;
+Keywords=typing;automation;paste;clipboard;
+StartupNotify=true
+StartupWMClass=kraken
